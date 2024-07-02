@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Silvia!</h1>
 - 👩‍💻 I’m currently learning **at SoftUni for Python Web Developer.**
 
