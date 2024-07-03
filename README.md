@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Silvia!</h1>
+<h1 align="left">Hi 👋, I'm Silvia!</h1>
 
-- 👩‍💻 I’m currently learning **at SoftUni for Python Web Developer.**
+- 👩‍💻 I’m currently studying **Python Web Development at SoftUni.**
 
 - 🦸‍♀️ I’m currently working on **raising two little people to be good, kind and happy!**
 
