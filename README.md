@@ -9,6 +9,7 @@
 - ⚡ Fun fact:  **I 💙 kids, cats, cars! 🏎️ I’ve worked for BMW, Daimler and VW.**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://linkedin.com/in/silvia-yotovska" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="silvia-yotovska" height="30" width="40" /></a>
 <p align="left"> <a href="https://fb.com/silvia.altanska" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sisialt" height="30" width="40" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
