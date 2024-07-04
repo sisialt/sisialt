@@ -4,7 +4,7 @@
 
 - 🦸‍♀️ I’m currently working on **raising two little people to be good, kind and happy!**
 
-- 👩‍💼 I also work as **project team member in Germany.**
+- 👩‍💼 I also work as **a project team member in Germany.**
 
 - ⚡ Fun fact:  **I 💙 kids, cats, cars! 🏎️ I’ve worked for BMW, Daimler and VW.**
 
