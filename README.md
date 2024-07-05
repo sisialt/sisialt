@@ -10,8 +10,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/silvia-yotovska" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="silvia-yotovska" style="padding-right: 10px" height="30" width="40" /></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="python" style="padding-right: 10px" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="padding-right: 10px" height="40" width="40" /></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="text-decoration: none"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" style="padding-right: 10px" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="padding-right: 10px" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="text-decoration: none"> <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg" alt="vscode" style="padding-right: 10px" width="40" height="40"/> </a>
