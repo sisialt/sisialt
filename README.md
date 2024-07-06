@@ -6,7 +6,7 @@
 
 - 👩‍💼 I also work as **a project team member in Germany.**
 
-- ⚡ Fun fact:  **I 💙 kids, cats, cars! 🏎️ I’ve worked for BMW, Daimler and VW.**
+- ⚡ Fun fact:  **I 💙 kids, cats, cars! 🏎️ I’ve worked for BMW, Mercedes-Benz and VW.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
