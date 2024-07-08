@@ -24,5 +24,5 @@
   <a href="https://linkedin.com/in/silvia-yotovska" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="silvia-yotovska" height="30" width="50" /></a>
   <a href="https://www.xing.com/profile/Silvia_Yotovska" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Xing_logo.svg" alt="sisialt" height="30" width="50" /></a>
   <a href="https://fb.com/silvia.altanska" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sisialt" height="30" width="50" /></a>
-  <a href="mailto:silvia.altanska@gmail.com" target="_blank" style="background-color: blue"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png" alt="sisialt" height="30" width="70" /></a>
+  <a href="mailto:silvia.altanska@gmail.com" target="_blank"><img align="center" style="background-color: blue" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png" alt="sisialt" height="30" width="70" /></a>
 </p>
