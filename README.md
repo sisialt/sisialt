@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Silvia!</h1>
+<h1 align="center">Hi 👋, I'm Silvia!</h1>
 
 - 👩‍💻 I’m studying **🐍 Python Web Development and JavaScript at SoftUni.**
 
