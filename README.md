@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Silvia!</h1>
 
-- 👩‍💻 I’m studying **🐍 Python Web Development at SoftUni.**
+- 👩‍💻 I have finished studying **🐍 Python Web Development at SoftUni.**
 
-- 🦸‍♀️ I’m currently working on **raising two tiny humans to be good, kind and happy!**
+- 🦸‍♀️ I’m currently working on **raising three tiny humans to be good, kind and happy!**
 
 - 👩‍💼 I also work as **a project team member in Germany.**
 
